@@ -1,0 +1,5 @@
+{
+  "name": "Structured Visualizer",
+  "description": "An application to analyze and optimize user prompts for AI image generation, enforcing a consistent style focused on ethnicity, cinematic lighting, and controlled composition. It generates an AI-ready version to enhance photorealism and a luxurious aesthetic for commercial visual branding.",
+  "requestFramePermissions": []
+}
